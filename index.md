@@ -3,7 +3,7 @@
 ARANDA CERTIFIED DEVICE MANAGEMENT ADMINISTRATOR V9 
 
 
- [Link](url) and ![Image]()
+ [Link](url) 
  
 
 
