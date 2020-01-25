@@ -4,10 +4,10 @@ ARANDA CERTIFIED DEVICE MANAGEMENT ADMINISTRATOR V9
 
 
 
-[url](https-Angelica-.github.io./edit/master/index.md)
 
 
 
-[Imagen](ADM_9.0.PNG)
+
+[Imagen](ADM_9.0.png) and [url](https-Angelica-.github.io./index.md)
 
 
