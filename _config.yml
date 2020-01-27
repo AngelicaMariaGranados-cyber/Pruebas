@@ -8,3 +8,13 @@ github_username:  AngelicaMariaGranados-cyber
 
 # Build settings
 markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" 
+      type: "posts" 
+    values:
+      layout: "post"
+      author: "Angelica Granados"
