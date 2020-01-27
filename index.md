@@ -6,6 +6,6 @@ ARANDA CERTIFIED DEVICE MANAGEMENT ADMINISTRATOR V9
 
 
 
- [url](https://angelicamariagranados-cyber.github.io/pretty-docs/)
+ [url](https://angelicamariagranados-cyber.github.io)
 
 
