@@ -5,12 +5,7 @@ ARANDA DEVICE MANAGEMENT V9
 
 date: 27-01-2020 14:42:00
 
-
 ---
-
-![Imagen] (https://github.com/AngelicaMariaGranados-cyber/Pruebas/blob/master/01.png)
- 
-
 
 *¿Por qué Aranda Device Management ?*
 
@@ -22,10 +17,11 @@ actualización y parchado, así como las políticas de energía en su
 organización.
 
 Si tienes inquietudes escribenos...
+
 email: angelicagranadoscampos@gmail.com
 
 
-url: (https://angelicamariagranados-cyber.github.io/Pruebas)
+url: (https://angelicamariagranados-cyber.github.io/Pruebas) and ![Imagen] (https://github.com/AngelicaMariaGranados-cyber/Pruebas/blob/master/01.png)
 
 
 
