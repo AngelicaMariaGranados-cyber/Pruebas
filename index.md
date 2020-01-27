@@ -20,10 +20,11 @@ software, licenciamiento, medición, distribución de software,
 actualización y parchado, así como las políticas de energía en su
 organización.
 
-
-
+Si tienes inquietudes escribenos...
 email: angelicagranadoscampos@gmail.com
-[url](https://angelicamariagranados-cyber.github.io/Pruebas)
+
+
+url: (https://angelicamariagranados-cyber.github.io/Pruebas)
 
 
 
