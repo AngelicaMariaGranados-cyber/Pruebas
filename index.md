@@ -1,11 +1,5 @@
 
-_posts/
- 2015-09-04-welcome-to-jekyll.markdown
- 2015-09-05-jelou.md
- 
- -------------------
 # ARANDA SOFTWARE 
-layaout: post
 
 ARANDA DEVICE MANAGEMENT V9
 
