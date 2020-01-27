@@ -8,9 +8,7 @@ date: 27-01-2020 14:42:00
 
 ---
 
-!![Imagen 1][1]  
-
- [1]: C:\Users\ARANDA\Desktop\prueba web/01.png
+!![Imagen] (https://www.google.com/search?q=imaegens+de+aranda+software)
  
 
 
