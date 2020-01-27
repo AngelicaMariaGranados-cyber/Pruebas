@@ -6,7 +6,10 @@ ARANDA DEVICE MANAGEMENT V9
 date: 27-01-2020 14:42:00
 
 
--------------
+---
+
+![image](\Users\ARANDA\Desktop\prueba web)
+
 
 *¿Por qué Aranda Device Management ?*
 
