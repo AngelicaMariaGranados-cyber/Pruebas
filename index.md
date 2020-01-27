@@ -8,7 +8,10 @@ date: 27-01-2020 14:42:00
 
 ---
 
-![image](c:\Users\ARANDA\Desktop\prueba web)
+!![Imagen 1][1]  
+
+ [1]: C:\Users\ARANDA\Desktop\prueba web/01.png
+ 
 
 
 *¿Por qué Aranda Device Management ?*
