@@ -1,6 +1,6 @@
 # ARANDA SOFTWARE 
 
-title:  "ARANDA DEVICE MANAGEMENT V9"
+ARANDA DEVICE MANAGEMENT V9
 
 [url](https://angelicamariagranados-cyber.github.io/Pruebas)
 
