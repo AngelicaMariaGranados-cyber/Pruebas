@@ -23,3 +23,5 @@ email: angelicagranadoscampos@gmail.com
 
 url: (https://angelicamariagranados-cyber.github.io/Pruebas) and ![Imagen] https://github.com/AngelicaMariaGranados-cyber/Pruebas/blob/master/Aranda.PNG?raw=true
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
