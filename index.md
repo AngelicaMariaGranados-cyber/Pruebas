@@ -21,6 +21,6 @@ Si tienes inquietudes escribenos...
 email: angelicagranadoscampos@gmail.com
 
 
-url: (https://angelicamariagranados-cyber.github.io/Pruebas) and ![Imagen] https://github.com/AngelicaMariaGranados-cyber/Pruebas/blob/master/Aranda.PNG?raw=true
+url: (https://angelicamariagranados-cyber.github.io/Pruebas) and ![Imagen] https://github.com/AngelicaMariaGranados-cyber/Pruebas/Aranda.PNG?raw=true
 
 
